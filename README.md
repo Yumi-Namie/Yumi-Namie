@@ -15,4 +15,4 @@
 
 ##
 
-![Snake animation](https://github.com/Yumi-Namie/Yumi-Namie/blob/output/github-contibuition-grid-snake.svg)
+![Snake animation](https://github.com/Yumi-Namie/Yumi-Namie/blob/output/github-contribuition-grid-snake.svg)
