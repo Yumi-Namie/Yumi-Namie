@@ -2,6 +2,7 @@
 ##
 
 - 🤓 I’m currently learning... 💻
+- ♻️ Switching from architecture 📐to tech career 
 - 🌐 English | Spanish | Portuguese 
 
 ##
