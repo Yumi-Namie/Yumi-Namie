@@ -1,4 +1,4 @@
-### Hi there 😊 I'm Renata Yumi Namie
+### Hi there 😊 I'm Yumi 
 ##
 
 - 🤓 I’m currently learning... 💻 
