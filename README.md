@@ -1,6 +1,6 @@
 ### Hi there 😊 I'm Yumi 
 ##
-
+- 📍  From Brazil and living in Spain
 - 🤓 I’m currently learning... 💻 
 - ♻️ Switching from architecture 📐to tech career 
 - 🌐 English | Spanish | Portuguese 
