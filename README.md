@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/Yumi-Namie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yumi-Namie&show_icons=true&theme=dracula&incluede_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi-Namie&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi-Namie&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
