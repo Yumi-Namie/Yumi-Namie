@@ -31,7 +31,6 @@ Hey there 👋
   <h4>My Stats :</h4>
   <a href="https://github.com/Yumi-Namie">
   <img height="180em" src="https://readme-stats.clckblog.space/api?username=Yumi-Namie&show_icons=true&theme=dracula&incluede_all_commits=true&count_private=true"/>
-  &emsp;
   <img height="180em"  src="https://readme-stats.clckblog.space/api/top-langs/?username=Yumi-Namie&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
