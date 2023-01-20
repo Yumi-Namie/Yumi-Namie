@@ -45,6 +45,8 @@ Hey there 👋
   <h4>Languages and Tools : </h4>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
     &emsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="Rstudio" width="40" height="40" title="Rstudio"/>
+    &emsp;     
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" title="HTML" />
     &emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" title="CSS" />
