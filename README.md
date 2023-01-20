@@ -3,7 +3,7 @@ Hey there 👋
 </h1>
 
 <p>
-<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="250" align='left'/>
+<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="220" align='left'/>
 
 <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- 😊 Hi, I'm Yumi</br> 
 <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- 📍  I'm from Brazil and living in Spain</br> 
