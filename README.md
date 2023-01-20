@@ -3,13 +3,14 @@ Hey there 👋
 </h1>
 
 <p>
-<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="240" align='right'/>
+  <br></br>
+  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="240" align='right'/>
 
-<br> - 😊 Hi, I'm Yumi</br> 
-<br> - 📍  I'm from Brazil and living in Spain</br> 
-<br> - ♻️ Switching from Architecture 📐to tech career 💻</br> 
-<br> - 🤓 I’m currently learning data engineering at <a href="https://keepcoding.io/">Keepcoding. </a> </br>  
-<br> - 🌐 English | Spanish | Portuguese </br>
+- 😊 Hi, I'm Yumi 
+- 📍  I'm from Brazil and living in Spain
+- ♻️ Switching from Architecture 📐to tech career 💻
+- 🤓 I’m currently learning data engineering at <a href="https://keepcoding.io/">Keepcoding. </a>
+- 🌐 English | Spanish | Portuguese 
 </p>
 
 
