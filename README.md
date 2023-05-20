@@ -9,7 +9,7 @@ Hey there 👋
 - 😊 Hi, I'm Yumi 
 - 📍  I'm from Brazil and living in Spain
 - ♻️ Switching from Architecture 📐to tech career 💻
-- 🤓 I’m currently learning data engineering at <a href="https://keepcoding.io/">Keepcoding. </a>
+- 🤓 I’m currently studying full stack web at <a href="https://factoriaf5.org/">Factoría F5 (Barcelona). </a>
 - 🌐 English | Spanish | Portuguese 
 </p>
 
@@ -51,6 +51,10 @@ Hey there 👋
     &emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" title="CSS" />
     &emsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+    &emsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    &emsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" title="PostGres-SQL" />
     &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="Numpy" />
@@ -59,8 +63,7 @@ Hey there 👋
     &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudiocode" width="40" height="40" title="Visual Studio Code"/>
     &emsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter notebook" />
-            
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter notebook" />        
 </div>
 
 
