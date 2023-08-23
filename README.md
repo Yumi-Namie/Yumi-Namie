@@ -13,6 +13,10 @@ Hey there 👋
 - 🌐 English | Spanish | Portuguese 
 </p>
 
+<p><br></br>
+  👀 Take a look at my portfolio: <a href="https://ry-portfolio.vercel.app/">https://ry-portfolio.vercel.app/</a>.
+</p>
+
 
 <div>
   <h4>
